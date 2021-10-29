@@ -1,0 +1,11 @@
+package com.example.demo.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import lombok.extern.slf4j.Slf4j;
+
+@RestController
+@RequestMapping("/v1/auth")
+public class gdpController {
+
+}

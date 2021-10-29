@@ -1,0 +1,11 @@
+package com.example.demo.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+
+
+@Controller
+@RequestMapping("/v1/auth")
+public class gdpController {
+
+}
